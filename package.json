@@ -1,0 +1,12 @@
+{
+  "name": "my-laravel-project",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "mix",
+    "production": "mix --production",
+    "watch": "mix watch"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
